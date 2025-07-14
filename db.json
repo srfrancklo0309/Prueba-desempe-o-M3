@@ -1,0 +1,50 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "fullName": "Admin User",
+      "email": "admin@admin.com",
+      "password": "admin123",
+      "role": "admin"
+    },
+    {
+      "id": "2",
+      "fullName": "Visitante Uno",
+      "email": "visitante@correo.com",
+      "password": "visitante123",
+      "role": "visitor"
+    },
+    {
+      "id": "3",
+      "fullName": "emma",
+      "email": "emma@emma.com",
+      "password": "123",
+      "role": "visitor"
+    }
+  ],
+  "events": [
+    {
+      "id": "1",
+      "name": "test",
+      "description": "12345",
+      "capacity": 124,
+      "date": "2024-07-20",
+      "image": "event1.jpg"
+    },
+    {
+      "id": "baec",
+      "name": "123",
+      "description": "123",
+      "capacity": 10,
+      "date": "2025-07-15",
+      "image": ""
+    }
+  ],
+  "enrollments": [
+    {
+      "id": "3c87",
+      "userId": "2",
+      "eventId": "baec"
+    }
+  ]
+}
