@@ -1,0 +1,19 @@
+body {
+  background-color: #f8f9fa;
+}
+
+.event-card:hover {
+  box-shadow: 0 4px 24px 0 rgba(80, 0, 120, 0.10), 0 1.5px 4px 0 rgba(80,0,120,0.08);
+  border-color: #a259ff;
+}
+
+aside {
+  background: linear-gradient(180deg, #f3e6fa 60%, #fff 100%);
+  border-right: 1px solid #e0d7ee;
+}
+
+.nav-link.active {
+  color: #a259ff !important;
+  background: #ede3fa;
+  border-radius: 8px;
+}
