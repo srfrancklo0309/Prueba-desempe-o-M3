@@ -107,10 +107,10 @@ README.md
 
 ## Desarrollador
 
-**Nombre:** ***Emmanuel Pérez Martínez***
-**Clan:** ***Ritchie***
-**Correo:** ***emmanuelperezm123@gmail.com***
-**D.I.:** ***1033490277***  
+- **Nombre:** ***Emmanuel Pérez Martínez***
+- **Clan:** ***Ritchie***
+- **Correo:** ***emmanuelperezm123@gmail.com***
+- **D.I.:** ***1033490277***  
 
 ## Link para la colección de POSTMAN
 
